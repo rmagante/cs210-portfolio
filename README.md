@@ -9,7 +9,7 @@ Welcome to my CS210 Programming languages portfolio!
 
 ## Projects:
 
-### 🔹 [Project 3: Corner Grocer](./project3-cornergrocer/) 
+### 🔹 [Project 3: Corner Grocer](./Project3-CornerGrocer/) 
 A grocery tracking program that reads purchase data from a file, counts item frequency using a map, and supports case-insensitive search. It outputs formatted lists, histograms, and generates a backup file on launch.
 
 
